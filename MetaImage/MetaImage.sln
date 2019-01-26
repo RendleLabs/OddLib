@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaImage", "MetaImage\MetaImage.csproj", "{5DD0171C-CF75-4DDA-9E56-BF8135AD973D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD0171C-CF75-4DDA-9E56-BF8135AD973D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD0171C-CF75-4DDA-9E56-BF8135AD973D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD0171C-CF75-4DDA-9E56-BF8135AD973D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD0171C-CF75-4DDA-9E56-BF8135AD973D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C48A70-E4D1-4EC9-A5FC-E988F8AC2DE4}
+	EndGlobalSection
+EndGlobal
